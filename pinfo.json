@@ -1,0 +1,37 @@
+{
+    "pinfos":[
+        {
+            "level":"L1",
+            "multiplier":0.08
+        },
+        {
+            "level":"L2",
+            "multiplier":0.03
+        },
+        {
+            "level":"A1",
+            "multiplier":0.2
+        },
+        {
+            "level":"A2",
+            "multiplier":0.075
+        },
+        {
+            "level":"P1",
+            "multiplier":0.1
+        }
+    ],
+
+    "phours":[
+        {
+            "peak":"6am",
+            "night":"7pm"
+        }
+    ],
+    
+    "nredrate":[
+        {
+            "rate":0.35
+        }
+    ]
+}
