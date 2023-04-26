@@ -19,6 +19,10 @@
         {
             "level":"P1",
             "multiplier":0.1
+        },
+        {
+            "level":"P2",
+            "multiplier":0.1
         }
     ],
 
